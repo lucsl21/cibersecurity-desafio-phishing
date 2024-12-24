@@ -13,28 +13,28 @@ Este projeto demonstra como configurar um ataque de phishing básico usando o **
 
 ## 🛠️ Configurando o Phishing no Kali Linux
 
-### Passo 1: Acessar o Root
+## Passo 1: Acessar o Root
 Execute o comando abaixo para obter acesso root:
 ```bash
 sudo su
 ---
 
 
-### Passo 2: Iniciar o SET
+## Passo 2: Iniciar o SET
 Inicie o Social-Engineer Toolkit:
 setoolkit
 
 ---
 
-### Passo 3: Escolher o Tipo de Ataque
+## Passo 3: Escolher o Tipo de Ataque
 Selecione Social-Engineering Attacks no menu inicial.
 Escolha Web Site Attack Vectors como o vetor de ataque.
 
-#### Passo 4: Configurar o Método de Ataque
+## Passo 4: Configurar o Método de Ataque
 Escolha Credential Harvester Attack Method.
 Selecione Site Cloner como o método de ataque.
 
-### Passo 5: Configurar a URL para Clonagem
+## Passo 5: Configurar a URL para Clonagem
 Insira o endereço do site que será clonado. Para este exemplo, utilizaremos o Facebook:
 http://www.facebook.com
 
