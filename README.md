@@ -36,6 +36,8 @@ http://www.facebook.com
 
 📊 Resultados
 Quando a vítima acessar o site clonado e inserir suas credenciais, os dados serão registrados no terminal do Kali Linux. Verifique as informações capturadas no console do SET.
+![image](https://github.com/user-attachments/assets/dfb929ec-1507-4c03-9090-16a8f62eadcf)
+
 
 
 🚨 Aviso Legal
