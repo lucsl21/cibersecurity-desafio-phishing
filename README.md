@@ -25,14 +25,20 @@ setoolkit
 ## Passo 3: Escolher o Tipo de Ataque
 Selecione Social-Engineering Attacks no menu inicial;
 Escolha Web Site Attack Vectors como o vetor de ataque.
+![menu](https://github.com/user-attachments/assets/32d3b525-27de-4e91-a671-699b308e5136)
+
 
 ## Passo 4: Configurar o Método de Ataque
 Escolha Credential Harvester Attack Method;
 Selecione Site Cloner como o método de ataque.
+![metodo](https://github.com/user-attachments/assets/6be46695-2106-46df-84da-43c69d643432)
+
 
 ## Passo 5: Configurar a URL para Clonagem
 Insira o endereço do site que será clonado. Para este exemplo, utilizaremos o Facebook:
 http://www.facebook.com
+![login_facebook](https://github.com/user-attachments/assets/20fe6786-7a40-4af7-a9e6-cb5019ee57f7)
+
 
 📊 Resultados
 Quando a vítima acessar o site clonado e inserir suas credenciais, os dados serão registrados no terminal do Kali Linux. Verifique as informações capturadas no console do SET.
